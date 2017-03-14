@@ -2,3 +2,8 @@
     background-color: #DDD;
     height: 100px;
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
